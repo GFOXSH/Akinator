@@ -6,7 +6,7 @@ The primary task - Russian translation
 
 The secondary task - expansion of the database
 
-
+------------------------------------------------------
 
 Оффлайн клон http://ru.akinator.com
 
